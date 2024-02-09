@@ -4,3 +4,4 @@ langchain
 streamlit
 pandas
 streamlit-extras
+streamlit-js-eval
