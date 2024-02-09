@@ -3,5 +3,4 @@ cohere
 langchain
 streamlit
 pandas
-pyautogui
 streamlit-extras
