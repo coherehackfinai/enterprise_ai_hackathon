@@ -1,0 +1,6 @@
+weaviate-client
+cohere
+langchain
+streamlit
+pandas
+pyautogui
