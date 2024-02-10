@@ -1,5 +1,4 @@
-**FinAnalyticaAI**
-- Your Trusted Financial Advisor in the Digital Age.
+**FinAnalyticaAI** - Your Trusted Financial Advisor in the Digital Age.
 
 Are you tired of drowning in a sea of financial reports, struggling to make sense of complex balance sheets and income statements? Look no further! FinAnalyticaAI is here to revolutionize the way you understand company finances.
 With FinAnalyticaAI, you gain access to a powerful AI-driven chatbot that effortlessly deciphers financial reports, providing you with insightful analysis and actionable recommendations. Whether you're an investor seeking promising opportunities, a business owner striving to enhance profitability, or a student eager to deepen your financial knowledge, FinAnalyticaAI is your ultimate companion.
