@@ -57,7 +57,7 @@ def initfn():
     print("here comes the connection key code")
     WEAVIATE_API_KEY = "WfdvclBO4vWoiOfXCV1DjwOZUNZ08nr3NACb"
     WEAVIATE_CLUSTER = "https://weaviate-hackathon-cluster-7l2iio8z.weaviate.network"
-    COHERE_API_KEY = "QnW41n57tHZl6r5EscOHPg1KbF6YrUAhpE7oJGSA"
+    COHERE_API_KEY = "CNEavUIZdTVT8k9q8iptNleiFKAkqvIPAUfHInc4"
 
     auth_config = weaviate.auth.AuthApiKey(api_key = WEAVIATE_API_KEY)
     weaviate_url = WEAVIATE_CLUSTER
