@@ -55,9 +55,9 @@ def coherechatmodel(user_prompt,client,co):
 def initfn():
     chat_his=[]
     print("here comes the connection key code")
-    WEAVIATE_API_KEY = "WfdvclBO4vWoiOfXCV1DjwOZUNZ08nr3NACb"
-    WEAVIATE_CLUSTER = "https://weaviate-hackathon-cluster-7l2iio8z.weaviate.network"
-    COHERE_API_KEY = "CNEavUIZdTVT8k9q8iptNleiFKAkqvIPAUfHInc4"
+    WEAVIATE_API_KEY = "WaY9IXHEJFhX8XM9Lrde3ergGO07v8fancpg"
+    WEAVIATE_CLUSTER = "https://weaviate-hackathon-cluster-5q6ns8o7.weaviate.network"
+    COHERE_API_KEY = "8njKHP6loAbUekmSMyvNazHLm3rnHokoLX0NPUkd"
 
     auth_config = weaviate.auth.AuthApiKey(api_key = WEAVIATE_API_KEY)
     weaviate_url = WEAVIATE_CLUSTER
